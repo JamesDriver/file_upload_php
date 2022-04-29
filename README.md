@@ -1,4 +1,4 @@
-# file_upload_php
+# Vulnerable File Upload PHP Docker
 Docker image running php vulnerable to basic file upload
 
 can be run with 
